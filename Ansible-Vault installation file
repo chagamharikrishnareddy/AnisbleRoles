@@ -1,0 +1,7 @@
+Install ansible-vault using PIP3
+Login into ansible server
+switch to ansible user
+sudo su ansible
+Then exuecute
+
+PIP3 install ansible-vault --user
